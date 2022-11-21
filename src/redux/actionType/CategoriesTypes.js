@@ -1,0 +1,1 @@
+export const CATEGORİES = "GET_CATEGORİES"
